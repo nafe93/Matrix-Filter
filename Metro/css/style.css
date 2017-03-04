@@ -1,0 +1,55 @@
+body{
+    background: #000;
+}
+#header{
+    margin: 0 auto;
+    left: 50px;
+    position: relative;
+    width: 200px;
+    color: #fff;
+}
+#body{
+    min-width: 480px;
+    max-width: 34.3em;
+	height: auto;
+	overflow: auto;
+    background: skyblue;
+    margin: 0 auto;
+}
+#v{
+    visibility: hidden;
+    position: relative;
+    display: none;
+}
+#canvas0,#canvas1,#canvas2,#canvas3,#canvas4,#canvas5{
+     width: 150px;
+     height: 150px;
+}
+.titless{
+    color: #FFFFFF;
+}
+.titless h1{
+    float: left;
+    margin-left: 50px;
+    text-align: center;
+    position: relative;
+}
+#hh1{
+    left: -15px;
+}
+#hh2{
+     left: 10px;
+
+ }
+#hh3{
+    left: +25px;
+}
+#hh4{
+    left: -15px;
+}
+#hh5{
+    left: 14px;
+}
+#hh6{
+    left: 30px;
+}
